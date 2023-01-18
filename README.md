@@ -2,17 +2,21 @@
  CV/Resume (without private contact info):
 <Br> <h4>
 [[Resume pdf]](https://stf.rodeo/resume.pdf) [[Resume website]](https://resume.stf.rodeo)
-<Br>
-<Br>
----
-![Facebook Icon](Resources/icons8-facebook-48.png "Facebook icon")
-[/cornishgentleman](https://www.facebook.com/cornishgentleman)
----
-
-
-
-
 <Br></br>
+---
+<img src="Resources/icons8-facebook-48.png" width="42" height="42">
+<H2> <a href="https://www.facebook.com/cornishgentleman">/cornishgentleman </a></H2>
+<img src="Resources/icons8-instagram-94.png" width="42" height="42">
+
+[Public Instagram](https://www.instagram.com/shaun.f.28)
+---
+
+
+
+
+
+<Br></a>
 *** 
 
-<a target="_blank" href="https://icons8.com/icon/yGcWL8copNNQ/facebook">Facebook</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/yGcWL8copNNQ/facebook">Facebook</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a><br>
+<a target="_blank" href="https://icons8.com/icon/nj0Uj45LGUYh/instagram">Instagram</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
