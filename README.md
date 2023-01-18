@@ -12,11 +12,10 @@
 ---
 
 
+<img src="Resources/Screenshot_20230118-105426~2.png" href="https://www.buymeacoffee.com/Shaunnn">
 
-
-
-<Br></a>
-*** 
 
 <a target="_blank" href="https://icons8.com/icon/yGcWL8copNNQ/facebook">Facebook</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a><br>
 <a target="_blank" href="https://icons8.com/icon/nj0Uj45LGUYh/instagram">Instagram</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+
