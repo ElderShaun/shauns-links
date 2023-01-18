@@ -1,7 +1,9 @@
 ## Shaun's Links
- CV/Resume (without private contact info):
+ CV/Resume:
 <Br> <h4>
-[[Resume pdf]](https://stf.rodeo/resume.pdf) [[Resume website]](https://resume.stf.rodeo)
+[[Resume pdf]](https://stf.rodeo/resume.pdf) 
+[[Resume website]](https://resume.stf.rodeo)
+(without private contact info)
 <Br></br>
 ---
 <img src="Resources/icons8-facebook-48.png" width="42" height="42">
